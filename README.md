@@ -26,6 +26,6 @@
 Authors
 * **Yousef Eldaly** -[YousefEldaly](https://github.com/YousefEldaly)  
 * **Fatma Elzahraa Ashraf** - [fatmaashraf1](https://github.com/fatmaashraf1)  
-* **Yousef Ezzat Mohamed**
+* **Yousef Ezzat Mohamed** -[Youssef18118](https://github.com/Youssef18118)  
 * **Howida Adel Abd El-Halim**  
-* **Nour Tarek Sayed**
+* **Nour Tarek Sayed** -[NourTarek201](https://github.com/NourTarek201)
